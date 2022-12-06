@@ -3,7 +3,7 @@ import ssl
 import smtplib
 
 email_sender = 'svramprabu@gmail.com'
-email_password = 'fzeu blcs hzpg hrty'
+email_password = 'enter your password here'
 
 email_receiver = input("Please enter the receiver mail id: ")#'wahati1747@edinel.com'
 subject =input("Enter the subject: ") #"Don't forget to reply"
